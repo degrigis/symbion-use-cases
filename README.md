@@ -8,7 +8,8 @@ The <a href="127.0.0.1">Paper</a> and <a href="https://hexgolems.com/talks/redqu
 The technique is publicly available on <a href="https://github.com/angr/angr">angr</a>'s master.
 For a complete example on how to leverage this technique for your analyses refer to our <a href="https://angr.io/blog/angr_symbion/">blog post</a>.
 
-We provide support on using it through our Slack channel, you can ask for an invite here -> https://angr.io/invite/.
+We provide support on using Symbion through our Slack channel, you can ask for an invite here -> https://angr.io/invite/.
+(ping @degrigis)
 
 Happy hacking!
 
