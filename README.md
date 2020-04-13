@@ -6,8 +6,11 @@ This repository contains the malware analysis use cases presented in the paper S
 The <a href="127.0.0.1">Paper</a> and <a href="https://hexgolems.com/talks/redqueen.pdf">Slides</a> describing Symbion were published at CNS 2020. 
 
 The technique is publicly available on <a href="https://github.com/angr/angr">angr</a>'s master.
-
 For a complete example on how to leverage this technique for your analyses refer to our <a href="https://angr.io/blog/angr_symbion/">blog post</a>.
+
+We provide support on using it through our Slack channel, you can ask for an invite here -> https://angr.io/invite/.
+
+Happy hacking!
 
 ## BibTex:
 ```
