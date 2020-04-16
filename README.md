@@ -14,7 +14,7 @@ Happy hacking!
 ## BibTex:
 ```
 @inproceedings{gritti2020symbion,
- author = {Fabio Gritti and Lorenzo Fontana and Eric Gustafson and Fabio Pagani and Andrea Continella and Christopher Kruegel and Giovanni Vigna},
+  author = {Gritti, Fabio and Fontana, Lorenzo and Gustafson, Eric and Pagani, Fabio and Continella, Andrea and Kruegel, Christopher and Vigna, Giovanni},
  booktitle = {Proceedings of the IEEE Conference on Communications and Network Security (CNS)},
  month = {June},
  title = {SYMBION: Interleaving Symbolic with Concrete Execution},
