@@ -13,7 +13,7 @@ Happy hacking!
 
 ## BibTex:
 ```
-@inproceedings{gritti_symbion20,
+@inproceedings{gritti2020symbion,
  author = {Fabio Gritti and Lorenzo Fontana and Eric Gustafson and Fabio Pagani and Andrea Continella and Christopher Kruegel and Giovanni Vigna},
  booktitle = {Proceedings of the IEEE Conference on Communications and Network Security (CNS)},
  month = {June},
