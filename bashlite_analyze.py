@@ -17,7 +17,7 @@ NOTES:
 1) This script assumes that you are running the malware on an Ubuntu Vm that you can reach via ssh.
 You can specify this information using this script:
 
-python analyze.py <VM_IP> <GDB_SERVER_PORT> <SSH_USER> <SSH_PASSWORD>
+python bashlite_analyze.py <VM_IP> <GDB_SERVER_PORT> <SSH_USER> <SSH_PASSWORD>
 
 The binary has to be inside the virtual machine to be run concretely
 and on the local machine to create an angr project. 
@@ -205,7 +205,7 @@ if __name__== "__main__":
         SSH_USER = sys.argv[3]
         SSH_PASSWORD = sys.argv[4]
     except Exception:
-        print("Usage: python analyze.py <VM_IP> <GDB_SERVER_PORT> <SSH_USER> <SSH_PASSWORD>")
+        print("Usage: python bashlite_analyze.py <VM_IP> <GDB_SERVER_PORT> <SSH_USER> <SSH_PASSWORD>")
         sys.exit(1)
 
     # Connect via SSH to the concrete environment.
