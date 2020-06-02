@@ -311,7 +311,7 @@ if __name__== "__main__":
     # repe cmpsb is a pretty bad instruction for angr.
     # Since the buffer is symbolic we don't want to generate a state for every character that is
     # different from the hardcoded string. We are going to generate just two states, one in which the
-    # string is not the one that the malaware is checking against and the other one constrained to that string.
+    # string is not the one that the malware is checking against and the other one constrained to that string.
     print("Hooking repe cmpsb with a custom strcmp")
 
     # First, we need to grab all the repe cmpsb and hook a strcmp there.
