@@ -11,6 +11,10 @@ We provide support (ping @degrigis) on how to use Symbion through our Slack chan
 
 Happy hacking!
 
+## :warning: WARNING :warning:
+angr and Symbion drastically changed since the publication of this work. Therefore, the use-cases presented in this repo must be re-written. 
+Refer to the test case [here](https://github.com/angr/angr-targets/blob/master/tests/test_concrete_not_packed_elf64.py) for the latest working version and to the state of the work [here](https://github.com/angr/angr/issues/2701).
+
 ## BibTex:
 ```
 @inproceedings{gritti2020symbion,
